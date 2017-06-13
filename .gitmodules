@@ -1,3 +1,6 @@
 [submodule "template/test/subfirst"]
 	path = template/test/subfirst
 	url = https://github.com/lyz1005/HelloSubmodule_SubFirst.git
+[submodule "template/test/subsecond"]
+	path = template/test/subsecond
+	url = https://github.com/lyz1005/HelloSubmodule_SubSecond.git

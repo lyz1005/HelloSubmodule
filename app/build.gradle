@@ -20,8 +20,8 @@ android {
 
     sourceSets {
         main {
-            java.srcDirs += '../template/test/subfirst/java'
-            res.srcDirs += '../template/test/subfirst/res'
+            java.srcDirs += '../template/test/subsecond/java'
+            res.srcDirs += '../template/test/subsecond/res'
         }
     }
 }
