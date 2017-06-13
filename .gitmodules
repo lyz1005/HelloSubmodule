@@ -1,0 +1,3 @@
+[submodule "template/test/subfirst"]
+	path = template/test/subfirst
+	url = https://github.com/lyz1005/HelloSubmodule_SubFirst.git
